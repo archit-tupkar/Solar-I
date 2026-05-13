@@ -2,10 +2,10 @@
 #include <FirebaseESP32.h>
 
 // ── CONFIG — fill these in ──────────────────
-#define WIFI_SSID     "Airtel_arch_6835"
-#define WIFI_PASS     "air99850"
-#define FIREBASE_URL  "solar-i-default-rtdb.asia-southeast1.firebasedatabase.app"
-#define FIREBASE_AUTH ""
+#define WIFI_SSID     "WIFI USERNAME"
+#define WIFI_PASS     "WIFI PASSWORD"
+#define FIREBASE_URL  "URL FROM REALTIME DASHBOARD"
+#define FIREBASE_AUTH "PASTE YOUR SECRET KEY"
 #define DEVICE_ID     "device_001"
 #define LDR_PIN       26
 // ────────────────────────────────────────────
